@@ -1,4 +1,4 @@
-# TrainACM-ICPC-OLP with team HCMUT OnlyBoys
+<!-- # TrainACM-ICPC-OLP with team HCMUT OnlyBoys
 
 ## Member in team
 1. Trương Công Thành - [codeforces: congthanh123 (max rating: Master, 218)](https://codeforces.com/profile/congthanh123)
@@ -13,7 +13,7 @@
 ### In 2020
 1. #### Silver Medal ICPC 2020 Asia Can Tho Regional
 2. #### Silver Medal ICPC 2020 Vietnam National Contest
-3. #### Silver Medal ICPC 2020 Vietnam Southern Provinial Contest
+3. #### Silver Medal ICPC 2020 Vietnam Southern Provinial Contest -->
 
 ## ACM-ICPC in season 2021-2022
 
